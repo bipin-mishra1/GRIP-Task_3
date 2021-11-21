@@ -21,3 +21,7 @@ Basically this is a donation site for educating children for better future of na
 
 ## Github Profile:
 * [Om Tita](https://github.com/imom29)
+
+## Hosted On Github
+* [Payment Gateway](https://imom29.github.io/GRIP-Task_3/)
+
